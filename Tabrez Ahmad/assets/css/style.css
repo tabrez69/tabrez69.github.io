@@ -6,7 +6,9 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #000000;
 }
-
+.myIcon{
+  border-radius=100%;
+}
 a {
   color: #0563bb;
   text-decoration: none;
